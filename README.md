@@ -1,3 +1,4 @@
-# Simple_Blog
+# Simple_Blog  
 
-# This is a blog impletmented by php someday. And the repository has stopped updating.
+# Notice
+This is a blog impletmented by php someday. And the repository has stopped updating.
